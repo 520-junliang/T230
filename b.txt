@@ -8,4 +8,6 @@ zs add abcdefg
 
 ls add xyz
 
+ww add 2019-2-2
+
 
